@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Phelang Qhu
+#### JavaScript Developer
+![JavaScript Developer](https://github.com/phelang/phelang/blob/main/Group%2021%20(2).png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Build modern web and mobile applications using JavaScript and React. I work mostly with React JS, React Native, Node JS and Java.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
