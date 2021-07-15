@@ -10,6 +10,5 @@ Building modern web and mobile applications using JavaScript and React. I work m
 📱  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React Native <br/>
 🌐 &nbsp;&nbsp;&nbsp;&nbsp;HTML & CSS <br/>
 
-## Recent Work
+:mailbox: Get in touch!
 
-<img src="" width="250" />
