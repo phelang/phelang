@@ -1,7 +1,7 @@
 ![JavaScript Developer](https://github.com/phelang/phelang/blob/main/githubbanner.png)
 ### Hi there 👋, my name is Phelang Qhu
 
-Building modern web and mobile applications using JavaScript and React. I work mostly with React JS, React Native and Node JS.
+I build modern web and mobile applications using JavaScript and React. I work mostly with React JS, React Native and Node JS.
 
 ## Skills and Experience 
 
